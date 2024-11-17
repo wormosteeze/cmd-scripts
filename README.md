@@ -31,3 +31,9 @@ These batch files are saved to an encrypted USB drive which must be run as admin
   - opens the preferences.xml file for editing if needed, and pauses
   - copies preferences.xml from USB to the pertinent folder
   - kills and relaunches Cisco Anyconnect
+- <b>[ASDFall.bat](https://github.com/wormosteeze/cmd-scripts/blob/main/ASDFall.bat)</b>
+  - a script to install a program for all users and replace the desktop icon with a custom shortcut
+  - checks for admin
+  - copies and runs the installer
+  - replaces the desktop icon
+  - can be easily modified to work for any program and omit the icon replacement portions
