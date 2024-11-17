@@ -1,0 +1,1 @@
+net use z: \\abc45\dtdata /user:tc\ianm && echo.
